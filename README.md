@@ -45,7 +45,7 @@ This repository contains five DevOps mini projects demonstrating automation, ver
 
 ---
 
-### 4. [Your Extra Project Name]
+### 4. [Lint Gate]
 
 **Objective:** Add your project description here.
 
