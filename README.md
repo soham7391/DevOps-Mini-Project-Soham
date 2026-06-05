@@ -1,6 +1,5 @@
 # DevOps-Mini-Project-Soham
 Collection of DevOps mini projects covering Linux automation, Git workflows, CI/CD, Docker, and DevOps practices.
-# DevOps Mini Projects Portfolio
 
 This repository contains five DevOps mini projects demonstrating automation, version control, CI/CD, and containerization concepts.
 
