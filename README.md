@@ -45,16 +45,18 @@ This repository contains five DevOps mini projects demonstrating automation, ver
 
 ---
 
-### 4. [Lint Gate]
+### 4. Lint Gate Demo
 
-**Objective:** Add your project description here.
+**Objective:** Implement a fast-fail quality gate to prevent improperly formatted code from being committed or pushed.
 
-**Technologies:** Add technologies used.
+**Technologies:** Git, GitHub, Node.js, Prettier, Husky, GitHub Actions
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+Automated code formatting validation
+Husky pre-commit hooks
+GitHub Actions CI workflow
+Fast-fail quality gate implementation
+Consistent code quality enforcement
 
 ---
 
@@ -73,12 +75,8 @@ This repository contains five DevOps mini projects demonstrating automation, ver
 
 ## Author
 
-Soham
+Soham D
 
-## Tools Covered
-
-- Linux
-- Bash
 - Git
 - GitHub
 - GitHub Actions
